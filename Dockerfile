@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 
 ENV PYTHONUNBUFFERED=1 \
   DEBIAN_FRONTEND=noninteractive \
